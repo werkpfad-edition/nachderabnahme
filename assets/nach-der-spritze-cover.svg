@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-labelledby="title desc">
+<title id="title">NACH DER SPRITZE – Buchcover</title><desc id="desc">Cover des Ratgebers von Marius Velten zum Gewicht halten nach GLP-1.</desc>
+<rect width="800" height="1200" fill="#f4efe2"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#17342f" text-anchor="middle">
+<text x="400" y="78" font-size="23" font-weight="700" letter-spacing="7">MARIUS VELTEN</text>
+<text x="400" y="235" font-size="86" font-weight="900" letter-spacing="-2">NACH DER</text>
+<text x="400" y="330" font-size="104" font-weight="900" letter-spacing="-3">SPRITZE</text>
+<line x1="120" y1="375" x2="680" y2="375" stroke="#d77a3a" stroke-width="5"/>
+<text x="400" y="430" font-size="29" font-weight="600">Wie du dein Gewicht nach GLP-1 hältst</text>
+<text x="400" y="470" font-size="27">und schon während der Abnahme</text>
+<text x="400" y="510" font-size="27">die Grundlage dafür legst.</text>
+</g>
+<g transform="translate(105 570)">
+<g stroke="#d8ddd7" stroke-width="1">
+<line x1="0" y1="0" x2="590" y2="0"/><line x1="0" y1="70" x2="590" y2="70"/><line x1="0" y1="140" x2="590" y2="140"/><line x1="0" y1="210" x2="590" y2="210"/>
+<line x1="60" y1="-20" x2="60" y2="230"/><line x1="170" y1="-20" x2="170" y2="230"/><line x1="280" y1="-20" x2="280" y2="230"/><line x1="390" y1="-20" x2="390" y2="230"/><line x1="500" y1="-20" x2="500" y2="230"/>
+</g>
+<g fill="#7a8782" font-family="Arial,Helvetica,sans-serif" font-size="20" text-anchor="end"><text x="-12" y="6">120</text><text x="-12" y="76">100</text><text x="-12" y="146">80</text><text x="-12" y="216">60</text></g>
+<path d="M20 20 C95 48 120 78 170 102 S245 151 300 177 S365 198 410 198 C470 198 520 194 575 198" fill="none" stroke="#167d73" stroke-width="8" stroke-linecap="round"/>
+<g fill="#167d73"><circle cx="20" cy="20" r="9"/><circle cx="125" cy="82" r="9"/><circle cx="230" cy="135" r="9"/><circle cx="300" cy="177" r="9"/><circle cx="470" cy="198" r="9"/><circle cx="530" cy="196" r="9"/></g>
+<circle cx="410" cy="198" r="11" fill="#d77a3a"/><path d="M575 198 h18" stroke="#167d73" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 16"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#17342f"><text x="400" y="885" font-size="19" font-weight="700" letter-spacing="2">HUNGER · FOOD NOISE · EMOTIONALES ESSEN</text><text x="400" y="920" font-size="19" font-weight="700" letter-spacing="2">ERNÄHRUNG · KRAFTTRAINING · ALLTAG</text></g>
+<line x1="145" y1="970" x2="655" y2="970" stroke="#167d73" stroke-width="4"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#17342f"><text x="400" y="1035" font-size="26">Der große Ratgeber für die Zeit nach dem</text><text x="400" y="1072" font-size="26">Erreichen des Zielgewichts.</text><text x="400" y="1155" font-size="18" font-weight="700" letter-spacing="5" fill="#74827c">WERKPFAD EDITION</text></g>
+</svg>
