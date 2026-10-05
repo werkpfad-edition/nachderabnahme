@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1280" role="img" aria-labelledby="t d">
+<title id="t">AFTER THE SHOT by Marius Velten</title>
+<desc id="d">English book cover with a descending weight curve that levels into maintenance.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fbf8ef"/>
+    <stop offset=".62" stop-color="#f4efe3"/>
+    <stop offset="1" stop-color="#e7e0d0"/>
+  </linearGradient>
+  <linearGradient id="hill" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#b8c7c0"/>
+    <stop offset="1" stop-color="#708a85"/>
+  </linearGradient>
+</defs>
+<rect width="800" height="1280" rx="8" fill="url(#bg)"/>
+<circle cx="648" cy="690" r="58" fill="#f4d6a9" opacity=".85"/>
+<path d="M0 820 C155 760 245 770 350 825 C470 890 595 760 800 785 L800 1280 L0 1280 Z" fill="#d8dfd8"/>
+<path d="M0 900 C150 835 295 845 405 905 C540 980 640 850 800 875 L800 1280 L0 1280 Z" fill="url(#hill)" opacity=".78"/>
+<path d="M390 1280 C395 1125 455 1045 520 987 C573 940 621 902 648 855" fill="none" stroke="#e9e1cf" stroke-width="95" stroke-linecap="round" opacity=".96"/>
+<path d="M92 655 C230 620 300 690 385 720 C455 745 520 746 630 746 L735 746" fill="none" stroke="#bd8a46" stroke-width="6" stroke-linecap="round"/>
+<circle cx="520" cy="746" r="10" fill="#bd8a46"/>
+<text x="400" y="165" text-anchor="middle" fill="#0b4b4d" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="900" letter-spacing="2">AFTER</text>
+<text x="400" y="260" text-anchor="middle" fill="#0b4b4d" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="900" letter-spacing="2">THE SHOT</text>
+<line x1="280" y1="315" x2="520" y2="315" stroke="#bd8a46" stroke-width="3"/>
+<text x="400" y="370" text-anchor="middle" fill="#314e52" font-family="Georgia,serif" font-size="30">The Complete Guide to Life After</text>
+<text x="400" y="410" text-anchor="middle" fill="#314e52" font-family="Georgia,serif" font-size="30">Reaching Your Goal Weight</text>
+<text x="400" y="1130" text-anchor="middle" fill="#0b4b4d" font-family="Arial,Helvetica,sans-serif" font-size="38" letter-spacing="7">MARIUS VELTEN</text>
+<line x1="352" y1="1173" x2="448" y2="1173" stroke="#bd8a46" stroke-width="3"/>
+<text x="400" y="1215" text-anchor="middle" fill="#314e52" font-family="Georgia,serif" font-size="23">Werkpfad Edition</text>
+</svg>
